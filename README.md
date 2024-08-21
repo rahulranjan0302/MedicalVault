@@ -1,4 +1,4 @@
-## MEDIVAULT :
+## MEDICAL VAULT :
 MediVault is a Blockchain-based Electronic health Record Storage and Retrieval System.
 
 - Blockchain Technology with the help of **IPFS** Provides the Required Safety For Maintaining Record.
